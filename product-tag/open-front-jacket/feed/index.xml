@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>open front jacket &#8211; wundermart</title>
+	<atom:link href="https://saniya2502.github.io/Wundermart/product-tag/open-front-jacket/feed/" rel="self" type="application/rss+xml" />
+	<link>https://saniya2502.github.io/Wundermart</link>
+	<description></description>
+	<lastBuildDate>Sat, 10 Jun 2023 11:26:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Marks &#038; Spencer Jacket</title>
+		<link>https://saniya2502.github.io/Wundermart/product/marks-spencer-jacket/</link>
+					<comments>https://saniya2502.github.io/Wundermart/product/marks-spencer-jacket/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 09 Jun 2023 20:42:30 +0000</pubDate>
+				<guid isPermaLink="false">https://saniya2502.github.io/Wundermart/?post_type=product#038;p=489</guid>
+
+					<description><![CDATA[<h6 class="pdp-name">Women Beige Lightweight Longline Open Front Jacket</h6>
+Beige solid lightweight open front jacket, has a lapel collar, 2 pockets long sleeves, curved hemline, polyester lining]]></description>
+										<content:encoded><![CDATA[<div>
+<h4 class="pdp-product-description-title">PRODUCT DETAILS</h4>
+<p class="pdp-product-description-content">Beige solid lightweight open front jacket, has a lapel collar, 2 pockets long sleeves, curved hemline, polyester lining</p>
+</div>
+<div class="pdp-sizeFitDesc">
+<h4 class="pdp-sizeFitDescTitle pdp-product-description-title">Size &amp; Fit</h4>
+<p class="pdp-sizeFitDescContent pdp-product-description-content">The model (height 5&#8217;8) is wearing a size S</p>
+</div>
+<div class="pdp-sizeFitDesc">
+<h4 class="pdp-sizeFitDescTitle pdp-product-description-title">Material &amp; Care</h4>
+<p class="pdp-sizeFitDescContent pdp-product-description-content">100%Polyster<br />
+Machine wash</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://saniya2502.github.io/Wundermart/product/marks-spencer-jacket/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

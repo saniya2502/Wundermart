@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>30 &#8211; wundermart</title>
+	<atom:link href="https://saniya2502.github.io/Wundermart/size/30/feed/" rel="self" type="application/rss+xml" />
+	<link>https://saniya2502.github.io/Wundermart</link>
+	<description></description>
+	<lastBuildDate>Fri, 09 Jun 2023 21:11:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Roadster</title>
+		<link>https://saniya2502.github.io/Wundermart/product/roadster/</link>
+					<comments>https://saniya2502.github.io/Wundermart/product/roadster/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 09 Jun 2023 21:11:40 +0000</pubDate>
+				<guid isPermaLink="false">https://saniya2502.github.io/Wundermart/?post_type=product#038;p=525</guid>
+
+					<description><![CDATA[<h6 class="pdp-name">The Lifestyle Co. Women Pure Cotton Pleated Joggers Comes With A Belt</h6>
+&#160;]]></description>
+										<content:encoded><![CDATA[<div>
+<h4 class="pdp-product-description-title">PRODUCT DETAILS</h4>
+<ul>
+<li>Blue woven joggers</li>
+<li>Regular fit</li>
+<li>Mid-rise</li>
+<li>Length: regular</li>
+<li>Pattern: solid</li>
+<li>Flat-front, with no pleats design</li>
+<li>Feature: plain</li>
+<li>4 pockets</li>
+<li>Comes with a belt</li>
+</ul>
+</div>
+<div class="pdp-sizeFitDesc">
+<h4 class="pdp-sizeFitDescTitle pdp-product-description-title">Size &amp; Fit</h4>
+<p class="pdp-sizeFitDescContent pdp-product-description-content">Fit: Regular Fit<br />
+The model (height 5&#8217;8) is wearing a size 28</p>
+</div>
+<div class="pdp-sizeFitDesc">
+<h4 class="pdp-sizeFitDescTitle pdp-product-description-title">Material &amp; Care</h4>
+<p class="pdp-sizeFitDescContent pdp-product-description-content">100% Cotton<br />
+Machine Wash</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://saniya2502.github.io/Wundermart/product/roadster/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>H&#038;M Jeans</title>
+		<link>https://saniya2502.github.io/Wundermart/product/hm-jeans/</link>
+					<comments>https://saniya2502.github.io/Wundermart/product/hm-jeans/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 09 Jun 2023 19:22:17 +0000</pubDate>
+				<guid isPermaLink="false">https://saniya2502.github.io/Wundermart/?post_type=product#038;p=463</guid>
+
+					<description><![CDATA[5-pocket jeans in stretch cotton denim with a regular waist, zip fly and button, and straight legs with good room for movement over the thighs and knees.]]></description>
+										<content:encoded><![CDATA[<div>
+<h4 class="pdp-product-description-title">PRODUCT DETAILS</h4>
+<p>5-pocket jeans in stretch cotton denim with a regular waist, zip fly and button, and straight legs with good room for movement over the thighs and knees.</p>
+</div>
+<div class="pdp-sizeFitDesc">
+<h4 class="pdp-sizeFitDescTitle pdp-product-description-title">Size &amp; Fit</h4>
+<p class="pdp-sizeFitDescContent pdp-product-description-content">The model (height 6&#8242;) is wearing a size 32</p>
+</div>
+<div class="pdp-sizeFitDesc">
+<h4 class="pdp-sizeFitDescTitle pdp-product-description-title">Material &amp; Care</h4>
+<p class="pdp-sizeFitDescContent pdp-product-description-content">99% Cotton, 1% Elastane<br />
+Machine wash</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://saniya2502.github.io/Wundermart/product/hm-jeans/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

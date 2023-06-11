@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>8 &#8211; wundermart</title>
+	<atom:link href="https://saniya2502.github.io/Wundermart/size/8/feed/" rel="self" type="application/rss+xml" />
+	<link>https://saniya2502.github.io/Wundermart</link>
+	<description></description>
+	<lastBuildDate>Sat, 10 Jun 2023 17:33:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Roadster</title>
+		<link>https://saniya2502.github.io/Wundermart/product/roadster-2/</link>
+					<comments>https://saniya2502.github.io/Wundermart/product/roadster-2/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 10 Jun 2023 16:09:41 +0000</pubDate>
+				<guid isPermaLink="false">https://saniya2502.github.io/Wundermart/?post_type=product#038;p=606</guid>
+
+					<description><![CDATA[<h6 class="pdp-name">The Lifestyle Co Men White/Black Sneakers</h6>
+A pair of round-toe black sneakers, has regular styling, Lace-ups detail, Synthetic leather upper, Cushioned footbed, and Textured and patterned outsole, Warranty: 3-month Warranty provided by brand/manufacturer]]></description>
+										<content:encoded><![CDATA[<div>
+<h4 class="pdp-product-description-title">PRODUCT DETAILS</h4>
+<p class="pdp-product-description-content">A pair of round toe black sneakers ,has regular styling,<br />
+Lace-ups detail<br />
+Synthetic leather upper<br />
+Cushioned footbed<br />
+Textured and patterned outsole<br />
+Warranty: 3 months<br />
+Warranty provided by brand/manufacturer</p>
+</div>
+<div class="pdp-sizeFitDesc">
+<h4 class="pdp-sizeFitDescTitle pdp-product-description-title">Size &amp; Fit</h4>
+<p>Comfort Fit</p>
+</div>
+<div class="pdp-sizeFitDesc">
+<h4 class="pdp-sizeFitDescTitle pdp-product-description-title">Material &amp; Care</h4>
+<p>Wipe gently with a dry cloth to remove any dried-on dirt and dust</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://saniya2502.github.io/Wundermart/product/roadster-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

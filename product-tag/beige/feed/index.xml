@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Beige &#8211; wundermart</title>
+	<atom:link href="https://saniya2502.github.io/Wundermart/product-tag/beige/feed/" rel="self" type="application/rss+xml" />
+	<link>https://saniya2502.github.io/Wundermart</link>
+	<description></description>
+	<lastBuildDate>Sat, 10 Jun 2023 14:24:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>LilPicks</title>
+		<link>https://saniya2502.github.io/Wundermart/product/lilpicks/</link>
+					<comments>https://saniya2502.github.io/Wundermart/product/lilpicks/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 10 Jun 2023 11:54:13 +0000</pubDate>
+				<guid isPermaLink="false">https://saniya2502.github.io/Wundermart/?post_type=product#038;p=550</guid>
+
+					<description><![CDATA[<h6 class="pdp-name">Girls Beige &#38; Green Floral Printed Frilled Top with Trousers</h6>
+<div>
+<p class="pdp-product-description-content">This clothing set consists of Top and Trousers
+Beige and green printed Top ,has a round neck, long sleeves
+Green solid Trousers ,has a drawstring closure</p>
+
+</div>
+<div class="pdp-sizeFitDesc">
+<p class="pdp-sizeFitDescContent pdp-product-description-content"></p>
+
+</div>]]></description>
+										<content:encoded><![CDATA[<div>
+<h4 class="pdp-product-description-title">PRODUCT DETAILS</h4>
+<p class="pdp-product-description-content">This clothing set consists of Top and Trousers<br />
+Beige and green printed Top ,has a round neck, long sleeves<br />
+Green solid Trousers ,has a drawstring closure</p>
+</div>
+<div class="pdp-sizeFitDesc">
+<h4 class="pdp-sizeFitDescTitle pdp-product-description-title">Material &amp; Care</h4>
+<p class="pdp-sizeFitDescContent pdp-product-description-content">Top fabric: Polyester<br />
+Bottom fabric: Polyester<br />
+Machine easy wash</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://saniya2502.github.io/Wundermart/product/lilpicks/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Marks &#038; Spencer Jacket</title>
+		<link>https://saniya2502.github.io/Wundermart/product/marks-spencer-jacket/</link>
+					<comments>https://saniya2502.github.io/Wundermart/product/marks-spencer-jacket/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 09 Jun 2023 20:42:30 +0000</pubDate>
+				<guid isPermaLink="false">https://saniya2502.github.io/Wundermart/?post_type=product#038;p=489</guid>
+
+					<description><![CDATA[<h6 class="pdp-name">Women Beige Lightweight Longline Open Front Jacket</h6>
+Beige solid lightweight open front jacket, has a lapel collar, 2 pockets long sleeves, curved hemline, polyester lining]]></description>
+										<content:encoded><![CDATA[<div>
+<h4 class="pdp-product-description-title">PRODUCT DETAILS</h4>
+<p class="pdp-product-description-content">Beige solid lightweight open front jacket, has a lapel collar, 2 pockets long sleeves, curved hemline, polyester lining</p>
+</div>
+<div class="pdp-sizeFitDesc">
+<h4 class="pdp-sizeFitDescTitle pdp-product-description-title">Size &amp; Fit</h4>
+<p class="pdp-sizeFitDescContent pdp-product-description-content">The model (height 5&#8217;8) is wearing a size S</p>
+</div>
+<div class="pdp-sizeFitDesc">
+<h4 class="pdp-sizeFitDescTitle pdp-product-description-title">Material &amp; Care</h4>
+<p class="pdp-sizeFitDescContent pdp-product-description-content">100%Polyster<br />
+Machine wash</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://saniya2502.github.io/Wundermart/product/marks-spencer-jacket/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

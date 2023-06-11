@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Black &amp; orange printed &#8211; wundermart</title>
+	<atom:link href="https://saniya2502.github.io/Wundermart/product-tag/black-orange-printed/feed/" rel="self" type="application/rss+xml" />
+	<link>https://saniya2502.github.io/Wundermart</link>
+	<description></description>
+	<lastBuildDate>Sat, 10 Jun 2023 14:32:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Googo Gaaga</title>
+		<link>https://saniya2502.github.io/Wundermart/product/googo-gaaga/</link>
+					<comments>https://saniya2502.github.io/Wundermart/product/googo-gaaga/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 10 Jun 2023 14:25:12 +0000</pubDate>
+				<guid isPermaLink="false">https://saniya2502.github.io/Wundermart/?post_type=product#038;p=576</guid>
+
+					<description><![CDATA[<h6 class="pdp-name">Boys Black &#38; Orange Printed Pure Cotton Clothing Set</h6>
+This clothing set consists of T-shirt and Trousers
+Black and orange printed T-shirt ,has a round neck, long sleeves
+Black and orange printed Trousers ,has a slip-on closure]]></description>
+										<content:encoded><![CDATA[<div>
+<h4 class="pdp-product-description-title">PRODUCT DETAILS</h4>
+<p class="pdp-product-description-content">This clothing set consists of T-shirt and Trousers<br />
+Black and orange printed T-shirt ,has a round neck, long sleeves<br />
+Black and orange printed Trousers ,has a slip-on closure</p>
+</div>
+<div class="pdp-sizeFitDesc">
+<h4 class="pdp-sizeFitDescTitle pdp-product-description-title">Size &amp; Fit</h4>
+<p class="pdp-sizeFitDescContent pdp-product-description-content">4-5 Y</p>
+</div>
+<div class="pdp-sizeFitDesc">
+<h4 class="pdp-sizeFitDescTitle pdp-product-description-title">Material &amp; Care</h4>
+<p class="pdp-sizeFitDescContent pdp-product-description-content">Pure Cotton<br />
+Machine Wash</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://saniya2502.github.io/Wundermart/product/googo-gaaga/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

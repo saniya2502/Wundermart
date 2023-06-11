@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Louis Philippe Shirts &#8211; wundermart</title>
+	<atom:link href="https://saniya2502.github.io/Wundermart/product-tag/louis-philippe-shirts/feed/" rel="self" type="application/rss+xml" />
+	<link>https://saniya2502.github.io/Wundermart</link>
+	<description></description>
+	<lastBuildDate>Sat, 10 Jun 2023 11:32:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Louis Philippe</title>
+		<link>https://saniya2502.github.io/Wundermart/product/louis-philippe/</link>
+					<comments>https://saniya2502.github.io/Wundermart/product/louis-philippe/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 09 Jun 2023 18:14:55 +0000</pubDate>
+				<guid isPermaLink="false">https://saniya2502.github.io/Wundermart/?post_type=product#038;p=454</guid>
+
+					<description><![CDATA[<h6 class="pdp-name">Pure Cotton Classic Formal Shirt</h6>
+Mauve solid opaque Formal shirt ,has a spread collar, button placket, 1 patch pocket, long regular sleeves, straight hem]]></description>
+										<content:encoded><![CDATA[<div class="pdp-sizeFitDesc">
+<h4 class="pdp-product-description-title">PRODUCT DETAILS</h4>
+<p class="pdp-product-description-content">Mauve solid opaque Formal shirt ,has a spread collar, button placket, 1 patch pocket, long regular sleeves, straight hem</p>
+<h4 class="pdp-sizeFitDescTitle pdp-product-description-title">Size &amp; Fit</h4>
+<p class="pdp-sizeFitDescContent pdp-product-description-content">Brand Fit: Classic<br />
+Fit: Regular Fit<br />
+Size worn by the model: 40<br />
+Chest: 38&#8243;<br />
+Height: 6&#8217;1&#8243;</p>
+</div>
+<div class="pdp-sizeFitDesc">
+<h4 class="pdp-sizeFitDescTitle pdp-product-description-title">Material &amp; Care</h4>
+<p class="pdp-sizeFitDescContent pdp-product-description-content">100% Cotton<br />
+Machine Wash</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://saniya2502.github.io/Wundermart/product/louis-philippe/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
